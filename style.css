@@ -1,0 +1,66 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .container-in{
+    text-align: center;
+    height: 50vh;
+    width: 30%;
+    border: 2px solid #c4bbbb;
+   margin: auto;
+    margin-top: 200px;
+      box-shadow: 0 5px 8px 10px rgba(59, 57, 57, 0.2), 0 8px 20px 10px rgba(0, 0, 0, 0.19);
+  
+  }
+  .container-inn{
+    
+  
+    padding : 25px;
+  }
+  .container-innn{
+    margin-bottom:10px;
+    border-radius: 7px;
+  }
+  #fp{
+    color: #5353df;
+    font-size: 15px;
+    margin-bottom:10px;
+  }
+  input{
+  border: 3px solid rgb(143, 142, 142);
+    height: 40px;
+    width: 290px;
+  }
+  .container-innn_input{
+    margin: 10px 10px;
+    border-radius: 10px;
+  }
+  #sign-in-button{
+    height: 35px;
+    width: 220px;
+    color: white;
+  background-color: blue;  
+    border-radius: 18px;
+  }
+  #Sign-in-with-Apple{
+    height: 35px;
+    width: 220px;
+    border-radius: 15px;
+  }
+  
+  #or{
+    font-size: 20px;
+  }
+  #login{
+    margin-bottom: 6px;
+    font-size: 35px;
+    
+  }
+  .join-now{
+    font-size: 16px;
+    margin: auto;
+    margin-top:20px;
+  }
+  #join{
+    color: #2a2af4;
+  }
